@@ -26,7 +26,7 @@ class Likhitha:
 
 ## 👩‍💻 About Me
 
-I'm an Information Science Engineering student from **Tumkur, Karnataka**, graduating in **2027**, and I'm completely hooked on **Artificial Intelligence**.
+I'm an Information Science Engineering student from **Tumkur, Karnataka**, graduating in **2027**, and focused on **Artificial Intelligence**.
 
 I love the moment a messy idea turns into something that actually works: a model that classifies an image, a system that retrieves the right evidence, or a group of AI agents that do a whole research job on their own. That's what keeps me building.
 
